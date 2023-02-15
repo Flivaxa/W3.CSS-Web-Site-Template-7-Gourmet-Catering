@@ -228,6 +228,11 @@ header nav ul li {
     width: fit-content;
     padding: 12px 18px;
     margin-top: 15px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+.contact .holder form input:last-child:hover {
+    background-color: #ddd;
 }
 /* End Contact */  
 
